@@ -73,4 +73,4 @@ class DBHelper:
         if name is not None:
             fields.append("name = ?");  params.append(name)
         if age is not None:
-            fields.append("age = ?");   params.append( )
+            fields.append("age = ?");   params.append()
