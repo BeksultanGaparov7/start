@@ -1,0 +1,5 @@
+# created by virtualenv automatically
+*.venv/
+/lesson4/my_database.db
+/lesson4/database.db
+/home.ico
